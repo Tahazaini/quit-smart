@@ -4,7 +4,7 @@
 
 ## 📦 What's This?
 
-The complete QuitSmart app in a **single HTML file** (~400 lines).
+The complete QuitSmart app in a **single HTML file**. 
 - No build tools
 - No dependencies to install
 - No terminal commands
